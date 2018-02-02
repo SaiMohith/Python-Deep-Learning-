@@ -12,7 +12,6 @@ def mid_word(inp):  # define a function mid_word to find the middle word in the 
 
 def longest_word(inp):  # define a function longest_word to print the longest word in the sentence
     words = inp.split()  # split the sentence into words in a list
-    n = len(words)  # get the length of the list
     lengths = []  # create a lengths list
     for word in words:
         lengths.append(len(word))  # for every word in the words list append the list of each word in the lengths list
