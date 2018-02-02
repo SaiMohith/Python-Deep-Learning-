@@ -1,3 +1,6 @@
+# This program is to get the middle word, longest word in the sentence and print the sentence with words reversed
+
+
 def mid_word(inp):  # define a function mid_word to find the middle word in the sentence
     words = inp.split()  # split the sentence into words and store in the list words
     num = int((len(words)))  # get the length of the list
@@ -26,7 +29,7 @@ def reversed_words(inp):  # define a function to print the sentence with the rev
 
 
 # ask the user to enter the sentence
-sent = input("Please enter the sentence to get the middle word, longest word and sentence with reversed words:")
+sent = input("\n Please enter the sentence to get the middle word, longest word and sentence with reversed words:")
 mid_word(sent)  # call the mid_word function for the user input
 longest_word(sent)  # call the longest_word function
 reversed_words(sent)  # call the reversed_words function

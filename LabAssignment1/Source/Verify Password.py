@@ -1,3 +1,6 @@
+# This program is check if the password meet certain requirements
+
+
 import re  # import re library
 
 
@@ -17,5 +20,5 @@ def valid_password(pwd):  # define a function valid_password
             print("Strong Password")  # prints if pwd is find
 
 
-p = input("Please Enter your Password: ")  # asks the user to enter the password
+p = input("\n Please Enter your Password: ")  # asks the user to enter the password
 valid_password(p)  # calls the function valid_password with user input

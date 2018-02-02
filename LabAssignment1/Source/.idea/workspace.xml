@@ -11,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Verify Password.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Verify Password.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Verify Password.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="20" column="70" lean-forward="false" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -24,8 +24,8 @@
       <file leaf-file-name="Sentence.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sentence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="423">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -34,18 +34,18 @@
       <file leaf-file-name="triplets.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/triplets.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="378">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="students.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="students.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/students.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="107" lean-forward="false" selection-start-line="3" selection-start-column="107" selection-end-line="3" selection-end-column="107" />
+            <state relative-caret-position="147">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -66,10 +66,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Sentence.py" />
         <option value="$PROJECT_DIR$/triplets.py" />
-        <option value="$PROJECT_DIR$/Verify Password.py" />
         <option value="$PROJECT_DIR$/students.py" />
+        <option value="$PROJECT_DIR$/Sentence.py" />
+        <option value="$PROJECT_DIR$/Verify Password.py" />
       </list>
     </option>
   </component>
@@ -95,6 +95,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,7 +112,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -130,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.students">
+  <component name="RunManager" selected="Python.Verify Password">
     <configuration name="Sentence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,10 +211,10 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.students" />
-        <item index="1" class="java.lang.String" itemvalue="Python.triplets" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Sentence" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Verify Password" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Verify Password" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Sentence" />
+        <item index="2" class="java.lang.String" itemvalue="Python.students" />
+        <item index="3" class="java.lang.String" itemvalue="Python.triplets" />
       </list>
     </recent_temporary>
   </component>
@@ -236,6 +236,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -264,6 +265,70 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Verify Password.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="70" lean-forward="false" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sentence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/students.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="107" lean-forward="false" selection-start-line="3" selection-start-column="107" selection-end-line="3" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triplets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verify Password.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="70" lean-forward="false" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sentence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triplets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/students.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="107" lean-forward="false" selection-start-line="3" selection-start-column="107" selection-end-line="3" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Verify Password.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -320,18 +385,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/triplets.py">
+    <entry file="file://$PROJECT_DIR$/Sentence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="423">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sentence.py">
+    <entry file="file://$PROJECT_DIR$/triplets.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/students.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -339,15 +412,7 @@
     <entry file="file://$PROJECT_DIR$/Verify Password.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="20" column="70" lean-forward="false" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/students.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="107" lean-forward="false" selection-start-line="3" selection-start-column="107" selection-end-line="3" selection-end-column="107" />
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
