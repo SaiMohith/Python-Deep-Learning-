@@ -2,6 +2,7 @@
 
 
 def triplets(numbers):  # define a function which takes the number sequences as input
+    print("\n Given Sequence: ", numbers)  # prints the given input
     l = len(numbers)  # get the length of the list
     t_list = []  # creates a tuple to store the triplets
     for x in range(0, l-2):  # runs for loop until index is l-2
